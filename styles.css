@@ -1,0 +1,23 @@
+/* CSS Document */
+body{
+	text-align: center;
+	background-color: #6FE1DC;
+	color:#000000;
+	}
+#first
+{
+	font-size: 30px;
+	margin-top: 50px;
+	font-family: "黑体"；
+	
+}
+
+#second{
+	font-size:12px;
+	text-align: right;
+	margin-bottom: 30px
+}
+p{font-size: 12px;
+text-align: 400px;
+margin-bottom: 18px auto;
+}
